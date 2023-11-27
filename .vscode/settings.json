@@ -4,6 +4,7 @@
         "system_error": "cpp",
         "regex": "cpp",
         "ostream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "Analyzer.C": "cpp"
     }
 }
